@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", event => {
     $('[name=name of parameter 1]').change(updateResult)
     $('[name=name of parameter 2]').change(updateResult)
     $('[name=name of parameter 3]').change(updateResult)
-		//add as much parameters as you need
+	//add as much parameters as you need
     $('[name=name of parameter X]').change(updateResult)
 
     function updateResult() {
