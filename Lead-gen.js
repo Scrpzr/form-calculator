@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", event => {
         // Display the result in your #result field
         const resultField = $('#result')
         resultField.text(`${Result}`)
-        resultField.val(`${Result}`)
+	    
     }
  })
 </script>
